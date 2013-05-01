@@ -5,7 +5,7 @@ setup(name='pyagents',
       description='Python agent-based modelling framework',
       author='Graeme Stuart',
       author_email='ggstuart@gmail.com',
-      url='',
+      url='https://github.com/ggstuart/pyagents.git',
       license='GPL',
       packages=[
         'pyagents'
